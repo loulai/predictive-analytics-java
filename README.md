@@ -1,4 +1,4 @@
-# Predictive Analytics + Java = fun (maybe)
+# Predictive Analytics + Java = fun 
 Some fun programs that implement predictive analytics in Java, taken for my Predictive Analytics graduate class at NYU. 
 
 ### Concepts Covered
